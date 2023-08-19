@@ -1,0 +1,21 @@
+name: 链接模板
+description: 自助添加链接。
+labels: []
+body:
+  - type: textarea
+    id: config-file
+    validations:
+      required: true
+    attributes:
+      label: 链接信息
+      description: 请在双引号中填写，不要修改格式。
+      value: |
+        ```json
+        {
+            "title": "",
+            "url": "",
+            "avatar": "",
+            "screenshot": "",
+            "description": ""
+        }
+        ```
