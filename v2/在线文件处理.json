@@ -1,0 +1,19 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "Aconvert",
+      "url": "https://www.aconvert.com/cn/image/png-to-svg/",
+      "avatar": "https://www.aconvert.com/favicon.ico",
+      "screenshot": "https://okaykai.oss-accelerate.aliyuncs.com/picture/2023%2F08%2F19%2F20%3A47%3A41-862.png",
+      "description": "PNG转SVG - 在线转换图像文件"
+    },
+    {
+      "title": "文件类型转换",
+      "url": "https://cloudconvert.com/",
+      "avatar": "https://cloudconvert.com/images/logo_flat_32.png",
+      "screenshot": "https://okaykai.oss-accelerate.aliyuncs.com/picture/2023%2F07%2F30%2F17%3A16%3A59-066.png",
+      "description": ""
+    }
+  ]
+}
